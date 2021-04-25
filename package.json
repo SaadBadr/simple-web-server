@@ -1,0 +1,8 @@
+{
+  "name": "simple-web-server",
+  "version": "1.0.0",
+  "description": "very simple server",
+  "main": "server.js",
+  "author": "Saad Badr",
+  "license": "ISC"
+}
